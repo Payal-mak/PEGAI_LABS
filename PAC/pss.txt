@@ -1,0 +1,678 @@
+# PREMIUM LEARNER ASSIGNMENT
+
+## Question 1 — Generative AI-Powered Research Assistant Website
+
+A postgraduate engineering student has identified a research problem and plans to publish a research paper in a reputed journal. However, the student faces difficulties in conducting literature surveys, identifying research gaps, selecting appropriate methodologies, comparing existing research works, managing citations, summarizing research papers, and preparing a high-quality manuscript.
+
+To assist researchers, develop a **Generative AI-powered Research Assistant Website** that provides end-to-end support throughout the research lifecycle.
+
+The website should allow users to:
+
+* Perform literature surveys.
+* Generate research keywords and search queries.
+* Retrieve and summarize relevant research papers.
+* Identify research gaps.
+* Formulate research objectives and research questions.
+* Recommend suitable datasets, algorithms, experimental methodologies, and evaluation metrics.
+* Generate comparative analysis tables.
+* Prepare citations in different formats.
+* Draft various sections of a research paper.
+* Maintain research history.
+
+Design comprehensive prompt workflows for every research stage by applying appropriate **Prompt Engineering techniques**, such as:
+
+* Role prompting
+* Structured prompting
+* Few-shot prompting
+* Template prompting
+* Prompt chaining
+
+Implement prompt refinement by progressively improving prompts to enhance the accuracy, completeness, relevance, and quality of AI-generated outputs.
+
+Integrate suitable Generative AI APIs into the website and design an intuitive user interface that enables seamless interaction between the user and the AI system.
+
+Validate the generated information using trusted scholarly databases and official research repositories. Evaluate the generated outputs for:
+
+* Factual correctness
+* Technical accuracy
+* Consistency
+* Citation quality
+* Completeness
+* Hallucinations
+* Plagiarism
+
+Finally, recommend suitable strategies for:
+
+* Responsible AI usage
+* Research ethics
+* Data privacy
+* Transparency
+* Future enhancements
+
+These strategies should improve the overall effectiveness and reliability of the developed research assistant.
+
+---
+
+## Question 2 — Prompt Engineering-Based Lecture Note Generator Website
+
+A faculty member has been assigned to teach a newly introduced course and wants to prepare high-quality, standardized lecture notes for effective classroom teaching using Generative AI. However, AI-generated content often varies in technical depth, structure, accuracy, examples, visual representation, and presentation quality due to ineffective prompts.
+
+To address this challenge, develop a **Prompt Engineering-based Lecture Note Generator Website** that enables faculty members to generate comprehensive, classroom-ready lecture notes from:
+
+* Course name
+* Course outcomes
+* Module name
+* Topic
+* Subtopic
+* Learning objectives
+* Bloom's Taxonomy level
+* Target audience
+
+The website should automatically generate structured lecture notes containing:
+
+* Topic introduction
+* Concept explanation
+* Mathematical formulations
+* Algorithms
+* Flowcharts
+* Diagrams
+* Real-world examples
+* Case studies
+* Comparison tables
+* Classroom activities
+* Quizzes
+* Numerical examples
+* Programming examples, where applicable
+* References
+* Summary points
+
+Users should be able to customize the generated content based on:
+
+* Academic level
+* Lecture duration
+* Teaching methodology
+
+Design reusable prompt workflows for every stage of lecture note generation by applying appropriate Prompt Engineering techniques, such as:
+
+* Role prompting
+* Structured prompting
+* Template prompting
+* Few-shot prompting
+* Chain prompting
+* Iterative prompt refinement
+
+Implement multiple prompt versions to compare AI-generated outputs based on different prompting strategies. Provide facilities for:
+
+* Prompt editing
+* Version comparison
+* Regeneration
+* Prompt optimization
+
+Integrate suitable Generative AI APIs to generate educational content and develop an intuitive web interface that allows faculty members to:
+
+* Preview lecture notes
+* Edit lecture notes
+* Regenerate content
+* Export lecture notes
+* Manage lecture notes efficiently
+
+Validate the generated content using:
+
+* Standard textbooks
+* Research articles
+* Official documentation
+* Trusted educational resources
+
+Evaluate the outputs for:
+
+* Technical accuracy
+* Completeness
+* Consistency
+* Readability
+* Pedagogical effectiveness
+* Hallucinations
+* Curriculum alignment
+
+Recommend suitable strategies for improving prompt quality, maintaining academic standards, ensuring ethical AI usage, and enhancing the reliability and consistency of AI-generated educational content.
+
+---
+
+## Question 3 — Generative AI-Powered Laboratory Manual Generator Website
+
+A university department plans to standardize laboratory manuals for programming, software, and engineering laboratory courses to ensure consistency in content delivery, learning outcomes, practical implementation, and assessment across all divisions.
+
+However, preparing comprehensive laboratory manuals manually is time-consuming, often resulting in inconsistencies in:
+
+* Theory
+* Implementation steps
+* Coding standards
+* Evaluation criteria
+* Documentation quality
+
+To address this challenge, develop a **Generative AI-powered Laboratory Manual Generator Website** that automatically converts an experiment title into a complete laboratory manual.
+
+The website should allow faculty members to enter:
+
+* Course details
+* Experiment title
+* Course outcomes
+* Laboratory objectives
+* Prerequisite knowledge
+* Programming language or software platform
+* Expected learning level
+
+The system should automatically generate a structured laboratory manual containing:
+
+* Experiment objectives
+* Prerequisite concepts
+* Theoretical background
+* Algorithms
+* Flowcharts
+* Implementation procedure
+* Source code with comments
+* Sample input and output
+* Screenshots, where applicable
+* Observation tables
+* Result analysis
+* Troubleshooting guidelines
+* Viva questions with answers
+* Laboratory exercises
+* Assignment questions
+* Assessment rubrics
+* References
+* Additional learning resources
+
+Design reusable prompt workflows for each stage of laboratory manual generation by applying appropriate Prompt Engineering techniques, such as:
+
+* Role prompting
+* Structured prompting
+* Template prompting
+* Few-shot prompting
+* Prompt chaining
+* Iterative prompt refinement
+
+Implement multiple prompt versions to compare AI-generated outputs and provide facilities for:
+
+* Prompt customization
+* Regeneration
+* Version comparison
+* Prompt optimization
+
+Integrate suitable Generative AI APIs to automate the complete manual generation process.
+
+Develop an intuitive web interface that enables faculty members to:
+
+* Create manuals
+* Preview manuals
+* Edit manuals
+* Regenerate content
+* Export manuals
+* Manage laboratory manuals efficiently
+
+Validate the generated manuals using:
+
+* Standard textbooks
+* Official software documentation
+* Programming language specifications
+* University curriculum guidelines
+
+Evaluate the generated manuals for:
+
+* Technical correctness
+* Completeness
+* Consistency
+* Code quality
+* Curriculum alignment
+* Pedagogical effectiveness
+* Readability
+* Hallucinations
+
+Recommend suitable strategies for improving prompt quality, maintaining academic standards, ensuring ethical AI usage, and enhancing the reliability, maintainability, and consistency of AI-generated laboratory manuals for academic use.
+
+---
+
+## Question 4 — AI-Powered Requirement Elicitation and SRS Generator Website
+
+A software development company plans to automate its **Requirement Engineering** process by developing an **AI-powered Requirement Elicitation and Software Requirement Specification (SRS) Generator Website**.
+
+Traditionally, Business Analysts conduct multiple meetings with clients to understand business requirements. However, clients often provide incomplete, ambiguous, inconsistent, or conflicting information, resulting in:
+
+* Inaccurate requirement specifications
+* Frequent revisions
+* Project delays
+* Increased development costs
+
+To overcome these challenges, develop an **AI-assisted chatbot-based Requirement Engineering Website** that interacts with clients through intelligent conversational prompts to collect, analyze, refine, and validate software requirements.
+
+The chatbot should:
+
+* Dynamically ask relevant follow-up questions based on the client's responses.
+* Identify missing, ambiguous, conflicting, or incomplete requirements.
+* Suggest improvements and alternative solutions.
+* Confirm the gathered requirements with the client.
+* Continue the conversation until all essential functional and non-functional requirements are captured.
+
+Based on the finalized requirements, the system should automatically generate an **IEEE-compliant Software Requirement Specification (SRS)** document containing:
+
+* Project overview
+* Business objectives
+* Stakeholder information
+* Functional requirements
+* Non-functional requirements
+* User roles
+* Use cases
+* Business rules
+* Assumptions
+* Constraints
+* Acceptance criteria
+* Requirement Traceability Matrix
+* Version history
+
+The website should also maintain:
+
+* Complete conversation logs
+* Requirement revisions
+* Prompt history
+* Document versions
+* Stakeholder feedback
+
+These records should be available for future reference and change management.
+
+Design reusable prompt workflows for every stage of requirement elicitation by applying appropriate Prompt Engineering techniques, such as:
+
+* Role prompting
+* Structured prompting
+* Template prompting
+* Few-shot prompting
+* Prompt chaining
+* Iterative prompt refinement
+
+Implement multiple prompt versions to compare AI-generated outputs and provide facilities for:
+
+* Prompt customization
+* Regeneration
+* Version comparison
+* Prompt optimization
+
+Integrate suitable Generative AI APIs to automate conversational requirement engineering.
+
+Develop an intuitive web interface for both clients and Business Analysts to:
+
+* Review requirements
+* Edit requirements
+* Approve requirements
+* Export generated SRS documents
+
+Validate the generated requirements using:
+
+* Stakeholder confirmation
+* IEEE 29148 Software Requirement Specification guidelines
+* Standard Software Engineering practices
+
+Evaluate the generated outputs for:
+
+* Completeness
+* Correctness
+* Consistency
+* Ambiguity
+* Traceability
+* Documentation quality
+* Hallucinations
+* Security
+* Privacy
+* Stakeholder satisfaction
+
+Recommend suitable strategies for minimizing AI hallucinations, protecting confidential business information, ensuring ethical AI usage, and improving the overall reliability, transparency, and effectiveness of AI-assisted Requirement Engineering.
+
+---
+
+## Question 5 — Generative AI-Powered Career and College Admission Assistant Website
+
+Thousands of students completing Class 12 aspire to pursue engineering but often struggle to choose the most suitable engineering branch, college, entrance examination, and career path due to a lack of personalized guidance and reliable information.
+
+They face numerous challenges, including:
+
+* Identifying their interests and aptitude
+* Selecting an appropriate specialization
+* Understanding eligibility criteria
+* Comparing colleges
+* Analyzing placement opportunities
+* Estimating educational expenses
+* Exploring scholarships
+* Navigating the admission and counselling process
+
+To address these challenges, develop a **Generative AI-powered Career and College Admission Assistant Website** that provides end-to-end personalized guidance throughout the student's engineering admission journey.
+
+The website should allow students to create a personal profile by providing:
+
+* Academic performance
+* Entrance examination scores
+* Interests
+* Aptitude
+* Preferred location
+* Budget
+* Career goals
+* Other relevant preferences
+
+Based on this information, the AI assistant should:
+
+* Conduct career assessment.
+* Recommend suitable engineering branches.
+* Compare colleges using multiple parameters such as accreditation, infrastructure, faculty, fees, placements, internships, industry collaborations, research opportunities, hostel facilities, and student reviews.
+* Suggest appropriate entrance examinations.
+* Prepare personalized admission roadmaps.
+* Recommend scholarships and financial assistance schemes.
+* Generate counselling guidance.
+* Estimate career prospects and expected salary ranges.
+* Suggest future higher education opportunities.
+
+The AI assistant should interact with students through conversational prompts and:
+
+* Ask additional questions whenever the provided information is insufficient or ambiguous.
+* Refine recommendations based on user responses.
+* Explain the reasoning behind every recommendation.
+* Continuously improve the guidance until the student arrives at a well-informed decision.
+
+Design reusable prompt workflows for every stage of career guidance using:
+
+* Role prompting
+* Structured prompting
+* Template prompting
+* Few-shot prompting
+* Prompt chaining
+* Iterative prompt refinement
+
+Implement multiple prompt versions to compare AI-generated recommendations and provide facilities for:
+
+* Prompt customization
+* Regeneration
+* Comparison
+* Optimization
+
+Integrate suitable Generative AI APIs to automate personalized career counselling.
+
+Develop an intuitive web interface that enables students to:
+
+* Interact with the AI assistant.
+* Compare multiple colleges and engineering branches.
+* Save shortlisted colleges.
+* Track admission progress.
+* Download personalized career reports.
+* Maintain counselling history.
+
+Validate all AI-generated recommendations using official educational resources, including:
+
+* AICTE
+* UGC
+* NBA
+* NAAC
+* NIRF rankings
+* Official counselling authorities such as JoSAA, CSAB, and State Admission Committees
+* Official college websites
+* Authentic placement reports
+
+Evaluate the generated recommendations for:
+
+* Accuracy
+* Transparency
+* Fairness
+* Consistency
+* Explainability
+* Personalization
+* Completeness
+* Bias
+* Reliability
+* Ethical AI usage
+
+Recommend suitable strategies for minimizing hallucinations, protecting student data privacy, improving recommendation quality, and enhancing the overall effectiveness of AI-assisted career counselling and engineering admission guidance.
+
+---
+
+## Question 6 — Generative AI-Powered Aptitude Interview Preparation Website
+
+Many students preparing for campus placements, competitive examinations, and job interviews face difficulties in mastering:
+
+* Quantitative aptitude
+* Logical reasoning
+* Verbal ability
+* Analytical thinking
+
+These difficulties arise due to inadequate conceptual understanding, insufficient practice, lack of personalized guidance, and ineffective performance evaluation.
+
+Most online learning platforms provide static study materials and generic practice questions without adapting to the learner's strengths and weaknesses.
+
+To address these challenges, develop a **Generative AI-powered Aptitude Interview Preparation Website** that functions as an intelligent personal aptitude trainer and guides students from concept learning to interview readiness.
+
+The website should allow learners to create personalized profiles by providing:
+
+* Educational background
+* Target company or examination
+* Preferred aptitude topics
+* Current skill level
+* Available preparation time
+* Learning goals
+
+Based on the learner's profile, the AI assistant should generate a personalized learning roadmap covering major aptitude domains such as:
+
+1. Number System
+2. Percentage
+3. Profit and Loss
+4. Ratio and Proportion
+5. Time and Work
+6. Time, Speed and Distance
+7. Simple and Compound Interest
+8. Permutation and Combination
+9. Probability
+10. Data Interpretation
+11. Logical Reasoning
+12. Analytical Reasoning
+13. Verbal Ability
+14. Coding-Decoding
+15. Blood Relations
+16. Seating Arrangement
+17. Puzzles
+18. Other interview-relevant topics
+
+For every selected topic, the system should first explain the fundamental concepts using:
+
+* Simple language
+* Mathematical formulas
+* Solved examples
+* Shortcuts
+* Tricks
+* Visualization techniques
+* Real-world applications
+
+The system should then generate progressively challenging practice questions with step-by-step solutions and explanations.
+
+The AI assistant should interact with learners through conversational prompts and:
+
+* Identify weak concepts based on performance.
+* Dynamically recommend revision topics.
+* Generate topic-wise quizzes.
+* Generate section-wise assessments.
+* Generate full-length aptitude mock tests.
+* Generate interview-style questions.
+* Create personalized revision plans.
+
+The system should automatically:
+
+* Evaluate learner responses.
+* Provide detailed explanations for correct and incorrect answers.
+* Calculate topic-wise scores.
+* Calculate accuracy.
+* Calculate speed.
+* Calculate percentile.
+* Calculate overall performance.
+* Generate competency reports.
+* Provide progress dashboards.
+* Award achievement badges.
+* Recommend improvement strategies.
+* Continuously adapt the learning path according to learner performance.
+
+Design reusable prompt workflows for every stage of aptitude preparation using:
+
+* Role prompting
+* Structured prompting
+* Template prompting
+* Few-shot prompting
+* Prompt chaining
+* Iterative prompt refinement
+
+Implement multiple prompt versions to compare AI-generated:
+
+* Explanations
+* Questions
+* Quizzes
+* Feedback
+
+Provide facilities for:
+
+* Prompt customization
+* Regeneration
+* Comparison
+* Optimization
+
+Integrate suitable Generative AI APIs to automate personalized aptitude coaching.
+
+Develop an intuitive web interface that enables learners to:
+
+* Study concepts.
+* Solve practice questions.
+* Participate in quizzes and mock tests.
+* Review previous attempts.
+* Analyze detailed performance reports.
+* Monitor learning progress.
+* Download personalized preparation reports.
+
+Validate all generated aptitude content using:
+
+* Standard aptitude preparation books
+* Official examination syllabi
+* Trusted educational resources
+
+Evaluate the generated content and learner performance based on:
+
+* Conceptual accuracy
+* Question quality
+* Solution correctness
+* Curriculum alignment
+* Personalization
+* Consistency
+* Explainability
+* Reliability
+* Fairness
+* Learning effectiveness
+
+Recommend suitable strategies for minimizing AI hallucinations, protecting learner data privacy, ensuring ethical AI usage, and enhancing the overall effectiveness of AI-assisted aptitude training for placement and competitive examination preparation.
+
+---
+
+## Question 7 — Generative AI-Powered German Language Learning Website
+
+Many students aspire to pursue higher education in Germany but are unable to achieve the required German language proficiency because they are unfamiliar with the learning process, certification requirements, suitable learning resources, and effective study strategies.
+
+They often struggle with:
+
+* Vocabulary
+* Grammar
+* Pronunciation
+* Listening comprehension
+* Speaking confidence
+* Writing skills
+* Examination preparation
+* Progress tracking
+
+They may also need to prepare for internationally recognized German language certification examinations such as:
+
+* Goethe-Zertifikat
+* TestDaF
+* TELC
+
+To address these challenges, develop a **Generative AI-powered German Language Learning Website** that acts as an intelligent personal language tutor and guides learners from beginner level (**A1**) to the required proficiency level (**B1/B2 or above**) based on the **Common European Framework of Reference for Languages (CEFR)**.
+
+The website should allow learners to create personalized profiles by providing:
+
+* Educational background
+* Current language proficiency
+* Learning goals
+* Preferred study duration
+* Target examination
+* Available study time
+* Preferred learning style
+
+Based on the learner's profile, the AI assistant should generate:
+
+* Personalized study plans
+* Daily and weekly learning schedules
+* Vocabulary exercises
+* Grammar lessons
+* Pronunciation practice
+* Listening comprehension activities
+* Reading exercises
+* Conversation simulations
+* Writing assignments
+* Flashcards
+* Quizzes
+* Mock examinations
+* Continuous progress reports
+
+The AI assistant should interact with learners through conversational prompts and:
+
+* Identify weak learning areas.
+* Dynamically adjust the learning plan according to performance.
+* Recommend additional practice materials.
+* Provide instant feedback and corrections for grammar, vocabulary, pronunciation, and writing tasks.
+* Continuously motivate learners through personalized recommendations and milestone tracking.
+
+Design reusable prompt workflows for every stage of language learning by applying appropriate Prompt Engineering techniques, such as:
+
+* Role prompting
+* Structured prompting
+* Template prompting
+* Few-shot prompting
+* Prompt chaining
+* Iterative prompt refinement
+
+Implement multiple prompt versions to compare AI-generated learning content and provide facilities for:
+
+* Prompt customization
+* Regeneration
+* Comparison
+* Optimization
+
+Integrate suitable Generative AI APIs to automate personalized language instruction.
+
+Develop an intuitive web interface that enables learners to:
+
+* Access lessons.
+* Complete exercises.
+* Participate in AI-powered conversations.
+* Review learning history.
+* Monitor progress.
+* Earn achievement badges.
+* Download personalized study reports.
+
+Validate all generated learning content and examination guidance using:
+
+* Official CEFR guidelines
+* Goethe-Institut resources
+* TestDaF examination standards
+* TELC examination standards
+* Other recognized German language learning resources
+
+Evaluate the generated content and learner performance based on:
+
+* Linguistic accuracy
+* Curriculum alignment
+* Pronunciation quality
+* Grammar correctness
+* Vocabulary relevance
+* Learning effectiveness
+* Personalization
+* Consistency
+* Explainability
+* Fairness
+* Reliability
+
+Recommend suitable strategies for minimizing AI hallucinations, protecting learner data privacy, ensuring ethical AI usage, and enhancing the overall effectiveness of AI-assisted German language learning for higher education preparation.
