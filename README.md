@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pathfinder — AI Career Counsellor
 
 A one-file web application that gets career guidance from several distinct Gemini-powered counsellors.
@@ -23,3 +24,6 @@ The API key is not included in this repository, is not stored in local storage, 
 ## Demo checklist
 
 For a short demonstration, show a question answered by one counsellor, then select several counsellors and show their different perspectives. Open the browser network panel if you need to demonstrate that the multi-persona interaction makes one `generateContent` request.
+=======
+# PEGAI_LABS
+>>>>>>> 1976f2b2a268e035e969bdaee22d0e0fba9fbfd1
